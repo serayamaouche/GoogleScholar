@@ -6,7 +6,6 @@ provides functions for comparing multiple scholars and predicting h-index scores
 past publication records.
 
 <p align="center">
-  <img src="https://github.com/serayamaouche/RGoogle/blob/master/CompareCS.png" width="350"/>
-  <img src="https://github.com/serayamaouche/RGoogle/blob/master/CompareCS.png" width="350"/>
+  <img src="https://github.com/serayamaouche/RGoogle/blob/master/CompareCS.png" width="450"/>
 </p>
 
