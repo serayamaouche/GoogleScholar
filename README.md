@@ -1,9 +1,9 @@
 # Using Google Scholar with R
 
-The scholar package provides functions to retrieve citation data from Google Scholar. The package
+The [scholar package](https://cran.r-project.org/web/packages/scholar/index.html)provides functions to retrieve citation data from Google Scholar. The package
 provides functions for comparing multiple scholars and predicting h-index scores based on
 past publication records.
-[a link](https://cran.r-project.org/web/packages/scholar/index.html) 
+
 
 
 a- Citation history for a researcher
