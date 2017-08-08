@@ -1,5 +1,5 @@
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# Script File: GoogleScholar2R.R.R  
+# Script File: GoogleScholar2R.R 
 # Date of creation: 12 Feb 2017
 # Date of last modification: 25 Feb 2017
 # Author: Seraya Maouche <seraya.maouche@iscb.org>
